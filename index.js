@@ -12,6 +12,7 @@ const feed = new Podcast({
   categories: ['Religion & Spirituality/Islam'],
   pubDate: 'Mon, 20 Jan 2020 06:38:17 +0000',
   itunesAuthor: "Перевод Эльмира Кулиева",
+  itunesOwner: { name: 'Author', email:'ildarrazin@gmail.com' },
   itunesCategory: [{
     "text": "Religion & Spirituality",
     "subcats": [{
