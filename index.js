@@ -10,7 +10,15 @@ const feed = new Podcast({
   image_url: "https://bts.s3.nl-ams.scw.cloud/quran-ru/img.jpg",
   language: 'ru',
   categories: ['Religion & Spirituality/Islam'],
-  pubDate: 'Mon, 20 Jan 2020 06:38:17 +0000'
+  pubDate: 'Mon, 20 Jan 2020 06:38:17 +0000',
+  itunesAuthor: "Перевод Эльмира Кулиева",
+  itunesCategory: [{
+    "text": "Religion & Spirituality",
+    "subcats": [{
+      "text": "Islam"
+    }]
+  }],
+  itunesImage: 'https://bts.s3.nl-ams.scw.cloud/quran-ru/img.jpg'
 });
 
 data.forEach(item => {
