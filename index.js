@@ -23,7 +23,7 @@ const feed = new Podcast({
 
 data.forEach(item => {
   feed.addItem({
-    title: `${item + 1}. ${item.title}`,
+    title: `${item.id + 1}. ${item.title}`,
     url: item.url
   });
 });
