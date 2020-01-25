@@ -22,7 +22,7 @@ const feed = new Podcast({
 
 data.forEach(item => {
   feed.addItem({
-    title: item.title,
+    title: `${item + 1}. ${item.title}`,
     url: item.url
   });
 });
@@ -30,7 +30,7 @@ data.forEach(item => {
 
 const xml = feed.buildXml();
 
-const app = express()
+const app = express();
 
 console.log(xml);
 
