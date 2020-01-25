@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title><![CDATA[Перевод Корана]]></title>
+        <description><![CDATA[Смысловой перевод Священного Корана на русский язык. Перевод Эльмира Кулиева.]]></description>
+        <link>http://f2f3dff6-e88d-4558-950d-621650c19dd1.pub.cloud.scaleway.com:6346/</link>
+        <generator>Podcast for Node</generator>
+        <lastBuildDate>Sat, 25 Jan 2020 15:47:19 GMT</lastBuildDate>
+        <atom:link href="http://f2f3dff6-e88d-4558-950d-621650c19dd1.pub.cloud.scaleway.com:6346/rss.xml" rel="self" type="application/rss+xml" />
+        <pubDate>Mon, 20 Jan 2020 06:38:17 GMT</pubDate>
+        <language><![CDATA[ru]]></language>
+        <category><![CDATA[Religion & Spirituality/Islam]]></category>
+        <itunes:summary>Смысловой перевод Священного Корана на русский язык. Перевод Эльмира Кулиева.</itunes:summary>
+        <itunes:owner>
+            <itunes:name />
+            <itunes:email />
+        </itunes:owner>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:category text="Religion &amp; Spirituality">
+            <itunes:category text="Islam" />
+        </itunes:category>
+        <itunes:image href="http://i1.sndcdn.com/avatars-000758934862-u8tf0b-original.jpg" />
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Фатиха (Открывающая Коран)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/1.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/1.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Бакара (Корова)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/2.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/2.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Алю Имран (Семейство Имрана)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/3.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/3.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Ан-Ниса (Женщины)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/4.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/4.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Маида (Трапеза)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/5.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/5.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Анам (Скот)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/6.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/6.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Араф (Ограды)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/7.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/7.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Анфаль (Трофеи)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/8.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/8.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Ат-Тауба (Покаяние)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/9.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/9.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Йунус (Иона)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/10.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/10.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Худ (Худ)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/11.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/11.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Йусуф (Иосиф)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/12.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/12.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Ар-Раад (Гром)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/13.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/13.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Ибрахим (Авраам)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/14.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/14.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Хиджр (Хиджр)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/15.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/15.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Ан-Нахль (Пчёлы)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/16.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/16.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Исра (Ночной перенос)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/17.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/17.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Кахф (Пещера)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/18.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/18.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Марьям (Мария)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/19.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/19.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Та Ха (Та Ха)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/20.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/20.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Анбийа (Пророки)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/21.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/21.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Хаджж (Паломничество)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/22.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/22.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Муминун (Верующие)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/23.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/23.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Ан-Нур (Свет)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/24.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/24.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Фуркан (Различение)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/25.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/25.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аш-Шуара (Поэты)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/26.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/26.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Ан-Намль (Муравьи)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/27.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/27.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Касас (Рассказ)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/28.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/28.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Анкабут (Паук)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/29.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/29.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Ар-Рум (Римляне)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/30.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/30.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Лукман (Лукман)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/31.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/31.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Ас-Саджда (Земной поклон)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/32.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/32.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Ахзаб (Союзники)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/33.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/33.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Саба (Сава)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/34.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/34.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Фатыр (Творец)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/35.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/35.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Йа Син (Йа Син)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/36.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/36.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Ас-Саффат (Выстроившиеся в ряды)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/37.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/37.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Сад (Сад)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/38.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/38.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аз-Зумар (Толпы)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/39.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/39.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Гафир (Прощающий)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/40.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/40.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Фуссылат (Разъяснены)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/41.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/41.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аш-Шура (Совет)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/42.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/42.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аз-Зухруф (Украшения)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/43.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/43.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Ад-Духан (Дым)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/44.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/44.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Джасийа (Коленопреклонённые)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/45.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/45.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Ахкаф (Барханы)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/46.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/46.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Мухаммад (Мухаммад)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/47.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/47.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Фатх (Победа)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/48.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/48.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Худжурат (Комнаты)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/49.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/49.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Каф (Каф)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/50.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/50.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аз-Зарийат (Рассеивающие прах)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/51.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/51.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Ат-Тур (Гора)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/52.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/52.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Ан-Наджм (Звезда)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/53.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/53.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Камар (Месяц)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/54.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/54.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Ар-Рахман (Милостивый)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/55.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/55.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Вакиа (Событие)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/56.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/56.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Хадид (Железо)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/57.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/57.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Муджадила (Препирающаяся)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/58.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/58.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Хашр (Сбор)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/59.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/59.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Мумтахана (Испытуемая)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/60.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/60.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Ас-Сафф (Ряды)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/61.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/61.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Джумуа (Собрание)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/62.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/62.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Мунафикун (Лицемеры)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/63.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/63.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Ат-Тагабун (Взаимное обделение)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/64.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/64.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Ат-Талак (Развод)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/65.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/65.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Ат-Тахрим (Запрещение)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/66.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/66.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Мульк (Власть)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/67.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/67.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Калам (Письменная трость)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/68.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/68.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Хакка (Неминуемое)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/69.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/69.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Мааридж (Ступени)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/70.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/70.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Нух (Ной)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/71.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/71.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Джинн (Джинны)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/72.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/72.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Муззаммиль (Закутавшийся)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/73.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/73.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Муддассир (Завернувшийся)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/74.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/74.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Кийама (Воскресение)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/75.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/75.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Инсан (Человек)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/76.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/76.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Мурсалят (Посылаемые)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/77.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/77.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Ан-Наба (Весть)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/78.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/78.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Ан-Назиат (Исторгающие)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/79.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/79.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Абаса (Нахмурился)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/80.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/80.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Ат-Таквир (Скручивание)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/81.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/81.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Инфитар (Раскалывание)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/82.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/82.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Мутаффифин (Обвешивающие)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/83.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/83.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Иншикак (Разверзнется)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/84.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/84.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Бурудж (Созвездия зодиака)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/85.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/85.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Ат-Тарик (Ночной путник)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/86.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/86.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Аля (Всевышний)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/87.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/87.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Гашийа (Покрывающее)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/88.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/88.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Фаджр (Заря)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/89.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/89.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Балад (Город)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/90.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/90.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аш-Шамс (Солнце)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/91.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/91.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Лайл (Ночь)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/92.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/92.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Ад-Духа (Утро)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/93.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/93.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аш-Шарх (Раскрытие)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/94.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/94.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Ат-Тин (Смоковница)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/95.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/95.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Алак (Сгусток крови)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/96.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/96.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Кадр (Предопределение)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/97.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/97.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Баййина (Ясное знамение)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/98.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/98.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аз-Залзала (Сотрясение)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/99.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/99.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Адийат (Скачущие)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/100.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/100.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Кариа (Великое бедствие)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/101.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/101.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Ат-Такасур (Страсть к приумножению)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/102.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/102.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Аср (Время)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/103.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/103.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Хумаза (Хулитель)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/104.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/104.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Филь (Слон)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/105.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/105.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Курейш (Курейшиты)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/106.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/106.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Маун (Мелочь)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/107.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/107.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Каусар (Изобилие)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/108.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/108.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Кафирун (Неверующие)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/109.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/109.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Ан-Наср (Помощь)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/110.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/110.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Масад (Пальмовые волокна)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/111.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/111.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Ихлас (Очищение веры)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/112.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/112.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Аль-Фалак (Рассвет)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/113.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/113.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+        <item>
+            <title><![CDATA[[object Object]1. Ан-Нас (Люди)]]></title>
+            <link>https://bts.s3.nl-ams.scw.cloud/quran-ru/114.mp3</link>
+            <guid isPermaLink="true">https://bts.s3.nl-ams.scw.cloud/quran-ru/114.mp3</guid>
+            <itunes:explicit>No</itunes:explicit>
+        </item>
+    </channel>
+</rss>
